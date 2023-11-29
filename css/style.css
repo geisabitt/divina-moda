@@ -12,6 +12,14 @@
 body {
   min-width: 360px;
 }
+nav {
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  display: flex;
+  gap: 20px;
+}
 .container {
   width: 80%;
   display: flex;
@@ -34,4 +42,13 @@ h2 {
   background-color: #fff;
   border: 2px solid #660027;
   border-radius: 4px;
+}
+footer {
+  padding: 30px;
+  text-align: center;
+  background-color: #660027;
+}
+footer p {
+  color: #fff;
+  margin-bottom: 20px;
 }

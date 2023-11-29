@@ -1,11 +1,3 @@
-nav {
-  justify-content: space-between;
-  align-items: center;
-}
-ul {
-  display: flex;
-  gap: 20px;
-}
 header img {
   width: 100%;
 }
@@ -38,13 +30,4 @@ header img {
 }
 .card-description .btn-line {
   margin: 0 28px 35px;
-}
-footer {
-  padding: 30px;
-  text-align: center;
-  background-color: #660027;
-}
-footer p {
-  color: #fff;
-  margin-bottom: 20px;
 }
