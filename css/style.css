@@ -9,6 +9,9 @@
   list-style-type: none;
   color: #6c6969;
 }
+body {
+  min-width: 360px;
+}
 .container {
   width: 80%;
   display: flex;
