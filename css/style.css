@@ -52,6 +52,7 @@ footer p {
   color: #fff;
   margin-bottom: 20px;
 }
+
 @media screen and (max-width: 420px) {
   nav {
     flex-direction: column;

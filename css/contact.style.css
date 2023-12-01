@@ -21,6 +21,11 @@ form {
   margin: 0 auto;
   max-width: 400px;
 }
+form textarea {
+  resize: none;
+  width: 100%;
+  border: 1px solid #660027;
+}
 .form-group label {
   display: block;
 }
